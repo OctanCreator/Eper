@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.6c0460ba.css",
-    "main.js": "/static/js/main.773e9bdb.js",
-    "index.html": "/index.html",
-    "main.6c0460ba.css.map": "/static/css/main.6c0460ba.css.map",
-    "main.773e9bdb.js.map": "/static/js/main.773e9bdb.js.map"
+    "main.css": "/Eper/static/css/main.6c0460ba.css",
+    "main.js": "/Eper/static/js/main.773e9bdb.js",
+    "index.html": "/Eper/index.html",
+    "main.6c0460ba.css.map": "/Eper/static/css/main.6c0460ba.css.map",
+    "main.773e9bdb.js.map": "/Eper/static/js/main.773e9bdb.js.map"
   },
   "entrypoints": [
     "static/css/main.6c0460ba.css",
